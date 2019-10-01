@@ -58,6 +58,7 @@
 - [acat](https://github.com/intel/acat) - Assistive Context-Aware Toolkit (ACAT)  
 
 ## C++
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️  
 - [Alacrity-Lang](https://github.com/Electrux/Alacrity-Lang) - A programming language, highly based on modules and running separate programs for various functionality  
 - [Ethereal](https://github.com/Electrux/Ethereal) - Ethereal Language Reference Implementation  
 - [CCPP-Code](https://github.com/Electrux/CCPP-Code) - All C, C++ related projects reside here.  
@@ -120,6 +121,7 @@
 - [theBeamBook](https://github.com/happi/theBeamBook) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.  
 
 ## Go
+- [rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files  
 - [acra](https://github.com/cossacklabs/acra) - Database security suite for data-driven apps: database proxy with strong selective encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side encryption. Works for SQL databases and (limited functionality) for NoSQL databases.  
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers  
 - [PufferPanel](https://github.com/PufferPanel/PufferPanel) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers.  
@@ -154,6 +156,7 @@
 - [Glowstone](https://github.com/GlowstoneMC/Glowstone) - A fast, customizable and compatible open source server for Minecraft: Java Edition  
 
 ## JavaScript
+- [hospitalrun](https://github.com/HospitalRun/hospitalrun) - Monorepo that holds all of HospitalRun's v2 projects  
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript  
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`  
 - [YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution  
@@ -192,7 +195,7 @@
 - [realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅  
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.  
-- [v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby  
+- [v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website  
 - [codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.  
 - [wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web  
 - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.  
@@ -329,7 +332,6 @@
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
 - [awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) - 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates  
 - [styleguide-generators](https://github.com/davidhund/styleguide-generators) - An overview of automatic living styleguide generators  
-- [ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji  
 
 ## PHP
 - [fusio](https://github.com/apioo/fusio) - Open source API management platform  
@@ -345,6 +347,7 @@
 - [wordpress-ansible-playbook](https://github.com/tlovett1/wordpress-ansible-playbook) - Simple playbook for setting up WordPress with MariaDB, PHP FPM, nginx, and Memcache  
 
 ## Python
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.  
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee  
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster  
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.  
@@ -424,6 +427,7 @@
 - [script-hack-github-commit-graph](https://github.com/joeybronner/script-hack-github-commit-graph) - 🚀Hack the Github commit graph: add previous dates or write a word on it!  
 - [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace  
 - [nginx-virtual-host-bash-script](https://github.com/MagePsycho/nginx-virtual-host-bash-script) - Nginx Virtual Host Bash Script  
+- [ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji  
 
 ## Swift
 - [liquid-swipe](https://github.com/Cuberto/liquid-swipe) -   
@@ -432,6 +436,8 @@
 - [latex-templates](https://github.com/LukeSmithxyz/latex-templates) - My LaTeX templates, bibliography file, etc.  
 
 ## TypeScript
+- [react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀  
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop  
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.  
 - [bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.  
 - [deno_std](https://github.com/denoland/deno_std) - deno standard modules  
@@ -465,7 +471,7 @@
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.  
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!  
 - [bunqJSClient](https://github.com/bunqCommunity/bunqJSClient) - A javascript SDK for the bunq API  
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
+- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
 - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.  
 - [typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project  
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀  
