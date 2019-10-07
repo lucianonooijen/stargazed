@@ -53,7 +53,7 @@
 | 3 |  [nyancat](https://github.com/klange/nyancat) | Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`. | klange | 996 |
 | 4 |  [bf-compiler](https://github.com/enfiskutensykkel/bf-compiler) | Brainfuck compiler for macOS / OS X | enfiskutensykkel | 8 |
 | 5 |  [riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) | GNU toolchain for RISC-V, including GCC | riscv | 380 |
-| 6 |  [nnn](https://github.com/jarun/nnn) | :dolphin: The missing terminal file manager for X | jarun | 6244 |
+| 6 |  [nnn](https://github.com/jarun/nnn) | :dolphin: The missing terminal file manager for X | jarun | 6245 |
 | 7 |  [openvpn](https://github.com/OpenVPN/openvpn) | OpenVPN  is  an open source VPN daemon | OpenVPN | 4118 |
 | 8 |  [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | darktable-org | 3062 |
 | 9 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 8167 |
@@ -69,7 +69,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [nodegui](https://github.com/nodegui/nodegui) | A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️ | nodegui | 3334 |
+| 1 |  [nodegui](https://github.com/nodegui/nodegui) | A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️ | nodegui | 3335 |
 | 2 |  [Alacrity-Lang](https://github.com/Electrux/Alacrity-Lang) | A programming language, highly based on modules and running separate programs for various functionality | Electrux | 8 |
 | 3 |  [Ethereal](https://github.com/Electrux/Ethereal) | Ethereal Language Reference Implementation | Electrux | 87 |
 | 4 |  [CCPP-Code](https://github.com/Electrux/CCPP-Code) | All C, C++ related projects reside here. | Electrux | 5 |
@@ -210,10 +210,10 @@
 | 16 |  [lerna](https://github.com/lerna/lerna) | :dragon: A tool for managing JavaScript projects with multiple packages. | lerna | 19153 |
 | 17 |  [boxen](https://github.com/sindresorhus/boxen) | Create boxes in the terminal | sindresorhus | 603 |
 | 18 |  [lux](https://github.com/postlight/lux) | Build scalable, Node.js-powered REST JSON APIs with almost no code. | postlight | 517 |
-| 19 |  [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | facebook | 72300 |
+| 19 |  [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | facebook | 72301 |
 | 20 |  [blessed](https://github.com/chjj/blessed) | A high-level terminal interface library for node.js. | chjj | 8700 |
 | 21 |  [commander.js](https://github.com/tj/commander.js) | node.js command-line interfaces made easy | tj | 16201 |
-| 22 |  [notebook](https://github.com/jupyter/notebook) | Jupyter Interactive Notebook | jupyter | 6332 |
+| 22 |  [notebook](https://github.com/jupyter/notebook) | Jupyter Interactive Notebook | jupyter | 6333 |
 | 23 |  [rsmq](https://github.com/smrchy/rsmq) | Redis Simple Message Queue | smrchy | 1122 |
 | 24 |  [sanity](https://github.com/sanity-io/sanity) | The Sanity Studio – Collaborate in real-time on structured content | sanity-io | 1264 |
 | 25 |  [habitica](https://github.com/HabitRPG/habitica) | A habit tracker app which treats your goals like a Role Playing Game. | HabitRPG | 7116 |
@@ -245,7 +245,7 @@
 | 51 |  [unified](https://github.com/unifiedjs/unified) | ☔ friendly interface backed by an ecosystem of plugins built for creating and manipulating content | unifiedjs | 1714 |
 | 52 |  [headless-wp-starter](https://github.com/postlight/headless-wp-starter) | 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step | postlight | 3233 |
 | 53 |  [hyperapp](https://github.com/jorgebucaran/hyperapp) | The tiny framework for building web interfaces. | jorgebucaran | 16959 |
-| 54 |  [carbon](https://github.com/carbon-app/carbon) | 🎨 Create and share beautiful images of your source code | carbon-app | 21604 |
+| 54 |  [carbon](https://github.com/carbon-app/carbon) | 🎨 Create and share beautiful images of your source code | carbon-app | 21605 |
 | 55 |  [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) | Simple web interface for run ansible playbooks | node-ci | 158 |
 | 56 |  [knex](https://github.com/tgriesser/knex) | A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use. | tgriesser | 10604 |
 | 57 |  [node-clinic](https://github.com/nearform/node-clinic) | Clinic.js diagnoses your Node.js performance issues | nearform | 2855 |
@@ -291,7 +291,7 @@
 | 97 |  [redux_crash_course](https://github.com/bradtraversy/redux_crash_course) | Simple implementation of Redux with React 16 | bradtraversy | 254 |
 | 98 |  [bunqDesktop](https://github.com/bunqCommunity/bunqDesktop) | The unofficial, free and open source desktop application for the bunq API | bunqCommunity | 219 |
 | 99 |  [apostrophe](https://github.com/apostrophecms/apostrophe) | A CMS framework for Node.js that supports in-context editing, schema-driven content types, flexible widgets, and much more. Hint: start with the docs and use apostrophe-cli. | apostrophecms | 2828 |
-| 100 |  [popmotion](https://github.com/Popmotion/popmotion) | Simple animation libraries for delightful user interfaces | Popmotion | 17289 |
+| 100 |  [popmotion](https://github.com/Popmotion/popmotion) | Simple animation libraries for delightful user interfaces | Popmotion | 17290 |
 | 101 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 38886 |
 | 102 |  [reacto](https://github.com/eveningkid/reacto) | A sweet IDE for React.js | eveningkid | 847 |
 | 103 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 9192 |
@@ -302,13 +302,13 @@
 | 108 |  [debug](https://github.com/visionmedia/debug) | A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers | visionmedia | 8041 |
 | 109 |  [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) | A comprehensive collection of front end tutorials and resources for developers | kieranmv95 | 1617 |
 | 110 |  [gitflowanimated](https://github.com/vraa/gitflowanimated) | Git flow - Animated : Visualization of Gitflow workflow, built in React | vraa | 188 |
-| 111 |  [jest](https://github.com/facebook/jest) | Delightful JavaScript Testing. | facebook | 27772 |
+| 111 |  [jest](https://github.com/facebook/jest) | Delightful JavaScript Testing. | facebook | 27773 |
 | 112 |  [testcafe](https://github.com/DevExpress/testcafe) | A Node.js tool to automate end-to-end web testing. | DevExpress | 7459 |
 | 113 |  [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 🕸 Almost complete answers to &#34;Front-end Job Interview Questions&#34; which you can use to interview potential candidates, test yourself or completely ignore | yangshun | 21493 |
 | 114 |  [airtap](https://github.com/airtap/airtap) | Test your JavaScript in 800+ browsers. | airtap | 1348 |
 | 115 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark: The largest Node.js best practices list (September 2019) | goldbergyoni | 34063 |
 | 116 |  [lint-staged](https://github.com/okonet/lint-staged) | 🚫💩 — Run linters on git staged files | okonet | 5682 |
-| 117 |  [cheerio](https://github.com/cheeriojs/cheerio) | Fast, flexible, and lean implementation of core jQuery designed specifically for the server. | cheeriojs | 20460 |
+| 117 |  [cheerio](https://github.com/cheeriojs/cheerio) | Fast, flexible, and lean implementation of core jQuery designed specifically for the server. | cheeriojs | 20461 |
 | 118 |  [react-motion-menu](https://github.com/bokuweb-sandbox/react-motion-menu) | [DEPRECATED] 🍔 A spring animation menu component for React. | bokuweb-sandbox | 339 |
 | 119 |  [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync) | kriasoft | 19548 |
 | 120 |  [meanauthapp](https://github.com/bradtraversy/meanauthapp) | Complete MEAN stack app with authentication | bradtraversy | 187 |
@@ -371,7 +371,7 @@
 | 30 |  [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) | Curated list of awesome open-source applications made with Node.js | sqreen | 4087 |
 | 31 |  [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) | :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) | unicodeveloper | 2766 |
 | 32 |  [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) | 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try! | open-source-ideas | 4478 |
-| 33 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48670 |
+| 33 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48671 |
 | 34 |  [ansible-nodejs-digitalocean](https://github.com/kbariotis/ansible-nodejs-digitalocean) | Complete playbook to create and deploy a Node.js application on Digital Ocean. | kbariotis | 66 |
 | 35 |  [ansible-node](https://github.com/evenset/ansible-node) | Better automation stategy for deploying NodeJS / ExpressJS application in production | evenset | 3 |
 | 36 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2019 | kamranahmedse | 88730 |
@@ -405,7 +405,7 @@
 | 5 |  [monkey](https://github.com/guardicore/monkey) | Infection Monkey - An automated pentest tool | guardicore | 2930 |
 | 6 |  [jupyterhub](https://github.com/jupyterhub/jupyterhub) | Multi-user server for Jupyter notebooks | jupyterhub | 5065 |
 | 7 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63227 |
-| 8 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 26977 |
+| 8 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 26978 |
 | 9 |  [healthchecks](https://github.com/healthchecks/healthchecks) | A Cron Monitoring Tool written in Python & Django | healthchecks | 2162 |
 | 10 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 74344 |
 | 11 |  [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder 📹 | asciinema | 7366 |
@@ -449,7 +449,7 @@
 | 1 |  [starship](https://github.com/starship/starship) | ☄🌌️ The cross-shell prompt for astronauts. | starship | 3158 |
 | 2 |  [iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) | LLVM tutorial in Rust language | jauhien | 529 |
 | 3 |  [bfc](https://github.com/Wilfred/bfc) | An industrial-grade brainfuck compiler | Wilfred | 223 |
-| 4 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 1702 |
+| 4 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 1703 |
 | 5 |  [rargs](https://github.com/lotabout/rargs) | xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}` | lotabout | 142 |
 | 6 |  [rwmstatus](https://github.com/Wojtek242/rwmstatus) | Port of dwmstatus to Rust | Wojtek242 | 9 |
 | 7 |  [vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) | An asynchronous markdown preview plugin for Vim and Neovim. | euclio | 382 |
